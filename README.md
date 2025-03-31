@@ -2,15 +2,7 @@
 
 Este projeto consiste em um sistema de gerenciamento de funcionários, desenvolvido com foco em operações CRUD (Create, Read, Update, Delete). Ele utiliza uma entidade chamada "Funcionários", que possui os seguintes atributos: ID, NOME, EMAIL, CPF e DATA DE ADMISSÃO.
 
-## Autores
 
-- [Daniele Silveira](https://github.com/daniele-silveira)
-- [Juliana Assi]()
-- [Maria Gabriela](https://github.com/mariagabrielat)
-- [Rayanne Dias](https://github.com/DiasRay)
-- [Sâmia França](https://github.com/miaelfk)
-- [Verônica Santos](https://github.com/veronicaferreiradev)
-- [Victoria Borges](https://github.com/VictoriaBorges)
 
 
 ## Entidade e atributos da entidade (Funcionarios: nome, email, cpf, dataadmissao)
